@@ -1,0 +1,5 @@
+name = input('Введите ваше имя:')
+print(f'Привет, {name}!')
+age = input('Введите ваш возраст:')
+year = 2019-int(age)
+print(f'Ваш год рождения:{year}')
